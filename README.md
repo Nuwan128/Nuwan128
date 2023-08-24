@@ -16,9 +16,9 @@
 <p align="left">
 <a href="https://codepen.io/nuwan128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nuwan128" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/nuwan128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/nuwan128" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nuwan-pradeep-008b9b220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nuwan-pradeep-008b9b220/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19826060/nuwan-pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19826060/nuwan-pradeep" height="30" width="40" /></a>
-<a href="https://medium.com/@nuwan pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nuwan pradeep" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nuwan-pradeep-008b9b220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nuwan-pradeep-008b9b220/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19826060/nuwan-pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19826060/nuwan-pradeep" height="30" width="40" /></a>
+<a href="https://medium.com/@nuwanpradeep610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nuwan pradeep" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
