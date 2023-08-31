@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwan128&label=Profile%20views&color=0e75b6&style=flat" alt="nuwan128" /> </p>
 
-- 🔭 I’m currently studying on **Sabaragamuwa University Of Sri Lanka.**
+- 🔭 I’m currently studying at **Sabaragamuwa University Of Sri Lanka.**
 
 - 💡 I like to explore **New Technologies and develop Software Solutions.**
 
